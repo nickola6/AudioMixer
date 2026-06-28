@@ -1,5 +1,5 @@
 public enum AudioMixerParameter
 {
-    Master,
-    Sounds
+    MasterVolume,
+    SoundsVolume
 }
